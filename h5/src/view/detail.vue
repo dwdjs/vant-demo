@@ -61,7 +61,7 @@ import {
   GoodsAction,
   GoodsActionIcon,
   GoodsActionButton
-} from 'vant';
+} from '@dwdjs/vant';
 
 export default {
   components: {
@@ -108,7 +108,7 @@ export default {
 };
 </script>
 
-<style lang="less">
+<style lang="less" scoped>
 .goods {
   padding-bottom: 50PX;
 
