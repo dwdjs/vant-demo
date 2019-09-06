@@ -2,6 +2,8 @@
 
 @dwdjs/h5 示例工程，基于 vue-cli 3 搭建。
 
+已迁移到[vue-h5-pro](https://github.com/dwdjs/vue-h5-pro)
+
 贴近现实需求
 
 - [x] 增加移动端 vw/vh 适配的配置
